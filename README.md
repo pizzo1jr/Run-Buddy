@@ -14,4 +14,4 @@ https://pizzo1jr.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Joe 
 
-### 02019 Run Buddy, Inc
+### Run Buddy, Inc
